@@ -6,7 +6,10 @@
   * 스마트폰의 장착되어있는 accelerometer 와 gyroscope를 활용하여 3 axial linear acceleration과 3 axial angular velocity를 캡쳐했다. 
 
 * **Omicron** 
-  * 오미크론 데이터셋을 통한 간단한 분석. 
+  * 오미크론 데이터셋을 통한 간단한 노트북 구현. 
 
 * **Titanic & Timeline Visualization for Titanic** 
-  * 가장 근본이 되는 Titanic Dataset을 활용한 노트북 구현. 
+  * Titanic Dataset을 활용한 노트북 구현. 
+
+* **Spam Detection** 
+  * RNN ML을 활용한 텍스트 분류 노트북 구현. 
